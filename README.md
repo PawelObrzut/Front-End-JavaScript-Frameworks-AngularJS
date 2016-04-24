@@ -27,7 +27,7 @@ Angular UI-Router for Single Page Applications<br>
 Assignment: Single Page Applications<br>
 
 Week 4<br>
-Client-Server Communication and Angular Testing<br><br>
+Client-Server Communication and Angular Testing<br>
 
 Client-Server Communication<br>
 Angular $http Service<br>
